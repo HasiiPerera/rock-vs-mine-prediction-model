@@ -26,7 +26,7 @@ The **Rock vs. Mine Prediction** project aims to classify underwater objects as 
 ---
 
 ## System Diagram
-![System Diagram](path/to/system_diagram.png) <!-- Replace with actual image path -->
+![System Diagram](https://github.com/HasiiPerera/rock-vs-mine-prediction-model/blob/main/System%20Diagram.png) <!-- Replace with actual image path -->
 
 ---
 
